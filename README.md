@@ -1,8 +1,8 @@
 # 💫 About Me:
 # 🙌 I'm Prajval Kanda, A passionate full-stack developer from India  
-MERN Stack, RectJS and Tailwind<br><br>Ask me about MERN Stack and RectJS<br><be>
+MERN Stack, ReactJS and Tailwind<br><br>Ask me about MERN Stack and NextJS<br><be>
 
-I’m a full-stack developer passionate about building modern web applications using the MERN stack, with a strong focus on Next.js for optimized performance and scalability. I create responsive, clean UIs with Tailwind CSS and manage both NoSQL and relational data using MongoDB and PostgreSQL. I regularly use Postman for API testing and am continually expanding my skills, currently sharpening my problem-solving through DSA in Java. I thrive on blending functionality with design to build efficient, end-to-end solutions.
+I’m a full-stack developer passionate about building modern web applications using the <strong>MERN<strong> stack, with a strong focus on <strong>Next.js</strong> for optimized performance and scalability. I create responsive, clean UIs with <strong>Tailwind CSS<strong> and manage both NoSQL and relational data using <strong>MongoDB</strong> and <strong>PostgreSQL</strong>. I regularly use Postman for API testing and am continually expanding my skills, currently sharpening my problem-solving through DSA in <strong>Java<strong>. I thrive on blending functionality with design to build efficient, end-to-end solutions.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/PrajvalK) 
