@@ -33,7 +33,7 @@ I’m a full-stack developer passionate about building modern web applications u
 
 ---
 
-### 📌 [Blog App](https://github.com/Praj2003/Blog-App)  
+### 📌 [Phone Book App](https://github.com/Praj2003/Intellewings_PhoneBook_FullStack_App)  
 A blogging platform that allows users to post, edit, and manage blogs with a clean UI.
 
 **Tech Stack:**  
