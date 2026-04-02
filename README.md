@@ -8,8 +8,7 @@ Motivated and detail-oriented Full-Stack Developer with hands-on experience in J
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [prajval.kanda01@gmail.com](mailto:prajval.kanda01@gmail.com)
-* 🚀  I'm currently working on [Telemedicine Full Stack Application named as "TeleMedX"](http://github.com/Praj2003/Telemedx_FullStack_App/tree/main)
-* 🧠  I'm learning NextJS and Kubernetes
+* 🧠  I'm learning NextJS and DevOps
 
 ### Skills
 
